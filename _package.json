@@ -1,0 +1,17 @@
+{
+	"name": "TreeView",
+	"description": "TreeView for reactjs",
+	"version": "0.1.0",
+	"license": "MIT",
+	"files": [
+		"README.md",
+		"index.js",
+		"src/TreeView.tsx",
+		"src/Tree.tsx",
+		"src/useContextMenu.tsx",
+		"src/ContextMenu.module.css",
+		"src/styles.module.css",
+		"src/icon.module.css"
+
+	]
+}
