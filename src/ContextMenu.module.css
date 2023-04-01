@@ -1,0 +1,23 @@
+
+
+
+.ContextMenu{
+    padding: 1rem;
+    color: white;
+    background-color: green;
+    position: absolute;
+}
+
+.ContextMenu ol {
+    list-style: none;
+    padding: 0;
+}
+
+.ContextMenu ol li {
+    cursor: pointer;
+}
+
+.ContextMenu:focus{
+    background-color: black;
+    outline: none;
+}
