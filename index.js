@@ -1,1 +1,1 @@
-module.exports = require('./src/TreeView.tsx');
+module.exports = require('./src/TreeView');

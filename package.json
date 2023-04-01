@@ -7,7 +7,11 @@
 		"README.md",
 		"index.js",
 		"src/TreeView.tsx",
-		"src/Tree.tsx"
+		"src/Tree.tsx",
+		"src/useContextMenu.tsx",
+		"src/ContextMenu.module.css",
+		"src/styles.module.css",
+		"src/icon.module.css"
 
 	]
 }
