@@ -1,0 +1,13 @@
+{
+	"name": "TreeView",
+	"description": "TreeView for reactjs",
+	"version": "0.1.0",
+	"license": "MIT",
+	"files": [
+		"README.md",
+		"index.js",
+		"src/TreeView.tsx",
+		"src/Tree.tsx"
+
+	]
+}
